@@ -1,5 +1,6 @@
 # Machine Learning Analysis on Airlines Dataset
 
+# NOTE For full analysis, please refer the jupyter notebook file in the repo, thank you
 ## Objective
 The objective of this work is to implement classic machine learning algorithms for classification, clustering, regression, dimension reduction, and ensembles. The analysis will be performed on a dataset from the CORGIS collection project, specifically the airlines dataset.
 
